@@ -33,4 +33,4 @@ jobs:
     
     - name: Send greeting
       run: |
-       python3 abc.py
+       python3 ../abc.py
